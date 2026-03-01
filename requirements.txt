@@ -1,2 +1,5 @@
-pandas sqlalchemy numpy
 streamlit
+pandas 
+sqlalchemy
+numpy
+
